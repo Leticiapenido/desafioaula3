@@ -1,0 +1,131 @@
+body{
+  margin:0;
+}
+#capa{
+  background: url(Imagens/capaoficial.jpg);
+  background-size: cover;
+  height: 900px;
+  color: #FAD100;
+  text-align: center;
+  box-sizing: border-box;
+  padding-top: 190px;
+  font-size: 40px;
+  text-shadow: rgb(77, 72, 3) -3px -3px;
+  
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+h2{
+  color: #FAD100;
+  text-align: center;
+  font-size: 50px;
+ margin: 0;
+ padding: 3%;
+ text-shadow:  black 5px -1px;
+}
+#projeto
+{
+  background-color:#FCB3EA;
+  float: left;
+  padding-left: 1%;
+  padding-right: 1%;
+  
+}
+#paragrafo1{
+  font-size: 24px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 50%;
+  height: 50%;
+  padding-left:30px;
+  text-align: justify;
+  float:left;
+  padding-bottom:50px;
+  
+} 
+#video1{
+  float: left;
+  width:45%;
+  height: 45%;
+}
+#paragrafo2{
+  font-size: 24px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 50%;
+  height: 50%;
+  padding-right:40px;
+  text-align: justify;
+  float:right;
+ 
+}
+#video2{
+  float: right;
+  width:45%;
+  height: 50%;
+  margin-bottom: 5%;
+}
+#quadrados{
+  background-color:#DB97E6;
+  padding: 5%;
+}
+h3{
+   text-align: center;
+   
+   font-size: 35px;
+   float: left;
+}
+
+#economia,#educacao{
+ 
+  width: 25%;
+  height: 25%;
+  text-align: justify;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  
+}
+#fotoeconomia{
+  float: left;
+  width:45%;
+  height: 45%;
+
+}
+#economia {
+  width: 50%;
+  height: 50%;
+  padding-right:40px;
+  float:right;
+}
+#fotopolitica{
+  float: left;
+  width:20%;
+  height: 40%;
+}
+#politica{
+  width: 40%;
+  height: 40%;
+  padding-right:40px;
+  float:left;
+
+}
+#fotoeducacao{
+  float: left;
+  width:45%;
+  height: 45%;
+}
+#educacao{
+  width: 50%;
+  height: 50%;
+  padding-right:40px;
+  float:left;
+}
+#politica{
+  width: 45%;
+  height: 45%;
+  text-align: justify;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  border-top: 5px;
+}
